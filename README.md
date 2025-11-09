@@ -5,7 +5,7 @@ The main aim for this project was to develop something that I can use myself, so
 ## Version 1 (Working pipeline to get information to the API and for it to respond like wanted). Weekly Diet Planner
 A full-stack application that collects pantry items and wellness goals, preprocesses them, calls an OpenAI model to craft weekday meal plans, stores the results, and renders them in a polished dashboard and React interface.
 
-### Key Features
+#### Key Features
 - Guided input flow with available ingredients, weekly goal, and dietary preference (prebuilt diets + custom option).
 - Pipeline automatically preprocesses inputs, generates a plan with OpenAI, validates and cleans the output, and renders an HTML dashboard.
 - FastAPI backend exposes REST endpoints for plan generation, CSV download, dashboard output, and plan history.
