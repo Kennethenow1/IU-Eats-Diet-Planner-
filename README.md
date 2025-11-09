@@ -1,5 +1,6 @@
 # Main Aim Of Project
 The main aim for this project was to develop something that I can use myself, something that will aid me in developing a healthy diet. What is that something? Well, an AI algorithm. Because I am too lazy and don’t know the specifics of every meal, ending up with a pizza in my mouth every time I tell myself I’ll eat healthier, I want to develop something that can use an educated decision tree to tell me what I should eat to achieve my goals. This educated decision tree will be based off the IU Dining Eats website.
+## Version 3 (will work on it after exams(November something idk) umm fixing bugs adding allergies and also hated foods, and making ui more freindly and less puniching, potentially faster too)
 
 ## Version 2 (Dataset of IU Eats website was intergrated. Not yet pushed will do 9th 11:59 est)
 
